@@ -27,10 +27,12 @@ Good at crawler development, operation and maintenance automation development, L
 # Languages and tools
 
 ![Golang](https://img.shields.io/badge/Golang-1.17-blue?logo=go&logoGolor=blue)
-![python](https://img.shields.io/badge/python-3.9-orange?logo=python&logoColor=orange)
+![gin](https://img.shields.io/badge/gin-1.7.7-blue?logo=gin&logoColor=blue)
+![python](https://img.shields.io/badge/Python-3.9-orange?logo=python&logoColor=orange)
 ![ubuntu18.04](https://img.shields.io/badge/Ubuntu-18.04-orange?logo=ubuntu&logoColor=orange)
 ![ubuntu20.04](https://img.shields.io/badge/Ubuntu-20.04-orange?logo=ubuntu&logoColor=orange)
 ![debian10](https://img.shields.io/badge/Debian-10-red?logo=debian&logoColor=red)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue?logo=kubernetes&logoColor=blue)
+![docker](https://img.shields.io/badge/Docker-20-blue?logo=docker&logoColor=blue)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuckOps)
