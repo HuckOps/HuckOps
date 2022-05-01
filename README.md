@@ -1,16 +1,36 @@
-### Hi there 👋
+# 😉嗨！我是Huck。 Hi！ This is Huck.
 
-<!--
-**HuckOps/HuckOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+毕业于西安邮电大学
 
-Here are some ideas to get you started:
+就职于网易集团
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+运维开发/云计算工程师一枚
+
+擅长爬虫开发、运维自动化开发、Linux系统运维以及Golang开发。
+
+graduated from Xi’an University of Posts and telecommunications
+
+Working in Netease group
+
+DevOps Engineer / Cloud computing Engineer
+
+Good at crawler development, operation and maintenance automation development, Linux system operation and maintenance and golang development.
+
+西安郵電大学を卒業しました。
+
+网易グループに就職する
+
+サーバー保守エンジニア/クラウドコンピューティングエンジニア
+
+爬虫類の開発、維持自動化開発、Linuxシステムの維持、およびGolang開発が得意です。
+
+# Languages and tools
+
+![Golang](https://img.shields.io/badge/Golang-1.17-blue?logo=go&logoGolor=blue)
+![python](https://img.shields.io/badge/python-3.9-orange?logo=python&logoColor=orange)
+![ubuntu18.04](https://img.shields.io/badge/Ubuntu-18.04-orange?logo=ubuntu&logoColor=orange)
+![ubuntu20.04](https://img.shields.io/badge/Ubuntu-20.04-orange?logo=ubuntu&logoColor=orange)
+![debian10](https://img.shields.io/badge/Debian-10-red?logo=debian&logoColor=red)
+![kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue?logo=kubernetes&logoColor=blue)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuckOps)
