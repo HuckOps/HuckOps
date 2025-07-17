@@ -6,7 +6,7 @@
 
 运维开发/云计算工程师一枚
 
-擅长爬虫开发、运维自动化开发、Linux系统运维以及Golang开发。
+擅长爬虫开发、运维自动化开发、Linux系统运维、区块链合约开发以及Golang开发。
 
 graduated from Xi’an University of Posts and telecommunications
 
@@ -14,7 +14,7 @@ Working in Netease group
 
 DevOps Engineer / Cloud computing Engineer
 
-Good at crawler development, operation and maintenance automation development, Linux system operation and maintenance and golang development.
+Good at crawler development, operation and maintenance automation development, Linux system operation, blockchain smart contract develpment and maintenance and golang development.
 
 西安郵電大学を卒業しました。
 
@@ -22,7 +22,7 @@ Good at crawler development, operation and maintenance automation development, L
 
 サーバー保守エンジニア/クラウドコンピューティングエンジニア
 
-爬虫類の開発、維持自動化開発、Linuxシステムの維持、およびGolang開発が得意です。
+爬虫類の開発、維持自動化開発、Linuxシステムの維持、ブロックチェーン契約開発、およびGolang開発が得意です。
 
 # Languages and tools
 
