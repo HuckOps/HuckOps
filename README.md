@@ -1,6 +1,5 @@
 # 😉嗨！我是Huck。 Hi！ This is Huck.
 
-毕业于西安邮电大学
 
 就职于网易集团
 
@@ -8,7 +7,6 @@
 
 擅长爬虫开发、运维自动化开发、Linux系统运维、区块链合约开发以及Golang开发。
 
-graduated from Xi’an University of Posts and telecommunications
 
 Working in Netease group
 
@@ -16,7 +14,6 @@ DevOps Engineer / Cloud computing Engineer
 
 Good at crawler development, operation and maintenance automation development, Linux system operation, blockchain smart contract develpment and maintenance and golang development.
 
-西安郵電大学を卒業しました。
 
 网易グループに就職する
 
